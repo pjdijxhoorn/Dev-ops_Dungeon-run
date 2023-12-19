@@ -1,0 +1,7 @@
+env.py
+.idea/
+__pycache__/
+node_modules/
+.github/
+db.sqlite3
+__pycache__
